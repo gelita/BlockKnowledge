@@ -1,4 +1,4 @@
 # BlockKnowledge
 BK Project
 
-!storyboard(https://github.com/gelita/BlockKnowledge/blob/main/storybaord.png?raw=true)
+!storyboard(https://github.com/gelita/BlockKnowledge/blob/main/storyboard.png?raw=true)
